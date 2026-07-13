@@ -97,20 +97,6 @@ These insights help stakeholders make data-driven decisions.
 - ETL Processes
 - Medallion Architecture
 - Star Schema
-- Git & GitHub
-
----
-
-# ▶️ Getting Started
-
-1. Clone the repository.
-2. Open SQL Server Management Studio.
-3. Create the required database.
-4. Execute Bronze layer scripts.
-5. Execute Silver layer scripts.
-6. Execute Gold layer scripts.
-7. Run analytical SQL queries.
-8. Connect Power BI or Tableau for reporting.
 
 ---
 
@@ -130,7 +116,7 @@ These insights help stakeholders make data-driven decisions.
 
 # 👨‍💻 Author
 
-*Your Name*
+Mathew Thomson M
 
 Data Analyst | SQL Developer | Power BI | Tableau | Excel
 
