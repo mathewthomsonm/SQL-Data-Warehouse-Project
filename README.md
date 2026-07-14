@@ -119,5 +119,3 @@ These insights help stakeholders make data-driven decisions.
 Mathew Thomson M
 
 Data Analyst | SQL Developer | Power BI | Tableau | Excel
-
-If you found this project useful, don't forget to ⭐ the repository.
